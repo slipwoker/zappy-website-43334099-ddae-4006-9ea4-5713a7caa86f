@@ -1,0 +1,108 @@
+# Frosty shop | פרוסטי שופ — Generative Engine Optimization Map
+
+> An e-commerce platform focused on selling Fortnite user accounts, targeting the gaming community. The site aims to convert visitors into buyers through compelling design and persuasive marketing, catering to Fortnite players looking to purchase accounts with rare skins, high levels, or unique in-game items.
+
+---
+
+## Pages
+
+### בית
+https://frosty-shop-43334099.zappy5.app
+חנות הגיימינג המובילה לקניית חשבון פורטנייט עם סקינים נדירים ורמות גבוהות. היכנס עכשיו למצוא את החשבון שישדרג לך את המשחק במחירים שוברי שוק.
+
+### איך זה עובד
+https://frosty-shop-43334099.zappy5.app/how-it-works
+תהליך רכישת חשבון פורטנייט ישראל מעולם לא היה פשוט כל כך. גלה איך לבחור, לשלם ולקבל את החשבון שלך עם סקינים נדירים בשלושה צעדים קלים בלבד.
+
+### אמון ושאלות נפוצות
+https://frosty-shop-43334099.zappy5.app/trust-faq
+כל מה שצריך לדעת על בטיחות, אמינות והעברת חשבונות פורטנייט עם סקינים נדירים. אנחנו פה כדי להפוך את קניית חשבון פורטנייט לחוויה שקופה ובטוחה.
+
+### צור קשר
+https://frosty-shop-43334099.zappy5.app/contact
+לא מוצא את החשבון המושלם? צור קשר עם צוות פרוסטי שופ ונעזור לך לאתר חשבון פורטנייט עם הסקינים הנדירים שאתה מחפש. אנחנו זמינים לכל שאלה.
+
+### Products
+https://frosty-shop-43334099.zappy5.app/products
+המוצרים שלנו - Frosty shop | פרוסטי שופ
+
+### Cart
+https://frosty-shop-43334099.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://frosty-shop-43334099.zappy5.app/checkout
+תשלום
+
+### Login
+https://frosty-shop-43334099.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://frosty-shop-43334099.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://frosty-shop-43334099.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://frosty-shop-43334099.zappy5.app/product/:slug
+פרטי המוצר - Frosty shop | פרוסטי שופ
+
+### Category
+https://frosty-shop-43334099.zappy5.app/category/:slug
+מוצרים - Frosty shop | פרוסטי שופ
+
+### תודה שפניתם אלינו
+https://frosty-shop-43334099.zappy5.app/thank-you
+Frosty shop | פרוסטי שופ - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://frosty-shop-43334099.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://frosty-shop-43334099.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://frosty-shop-43334099.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Frosty shop | פרוסטי שופ
+An e-commerce platform focused on selling Fortnite user accounts, targeting the gaming community. The site aims to convert visitors into buyers through compelling design and persuasive marketing, catering to Fortnite players looking to purchase accounts with rare skins, high levels, or unique in-game items.
+
+## Target Audience
+- שחקני פורטנייט המעוניינים לרכוש חשבונות
+- שחקני פורטנייט רוכשי חשבונות
+- שחקני פורטנייט תחרותיים
+- אספני סקינים נדירים
+- הורים לשחקנים צעירים
+- יוצרי תוכן וסטימרים
+- גיימרים צעיר
+
+## Industry
+Gaming E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://frosty-shop-43334099.zappy5.app/sitemap.xml
+- Robots: https://frosty-shop-43334099.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://frosty-shop-43334099.zappy5.app/llms-full.txt
+- Products (JSON): https://frosty-shop-43334099.zappy5.app/products.json
+- Products (Google Merchant RSS): https://frosty-shop-43334099.zappy5.app/product-feed.xml
